@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# dataset file
+*.csv
+*.zip
+*.gz
+
+# image
+*.png
+*.jpg
+
+# Pycharm support
+.idea
+
+# vscode support
+.vscode
+
+# MacOS support
+.DS_Store
+
+# log
+*.log
+
+# pyc
+*.pyc
